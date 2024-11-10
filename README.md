@@ -37,7 +37,6 @@
 <h2 align="center">Languages and Frameworks</h2>
 <br/>
 <div align="center">
-
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -47,7 +46,6 @@
     <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-    <img src="https://pkg.go.dev/badge/go.mau.fi/whatsmeow.svg" />
         <img src="https://img.shields.io/badge/Whiskeysocket/baileys-25D366?style=flat&logo=whatsapp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
