@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+    <img src="https://pkg.go.dev/badge/go.mau.fi/whatsmeow.svg" />
         <img src="https://img.shields.io/badge/Whiskeysocket/baileys-25D366?style=flat&logo=whatsapp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
