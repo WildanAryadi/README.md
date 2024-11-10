@@ -37,8 +37,9 @@
 <h2 align="center">Languages and Frameworks</h2>
 <br/>
 <div align="center">
-
-here are the languages ​​and frameworks I've learned so far
+Here are the languages ​​and frameworks I've learned so far :
+ </div>
+<div align="center">
 
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
