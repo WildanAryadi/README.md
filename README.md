@@ -37,8 +37,8 @@
 <h2 align="center">Languages and Frameworks</h2>
 <br/>
 <div align="center">
-Here are the languages ​​and frameworks I've learned so far :
- </div>
+ler
+ </br>
 <div align="center">
 
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
